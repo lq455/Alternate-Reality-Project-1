@@ -2,7 +2,7 @@
 
 A short description.test
 
-![This is an image](/Documentationimages/img1.png)
+![](img2.png)
 
 ## Technical setup instructions
 
