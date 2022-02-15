@@ -1,6 +1,7 @@
 # Your project title
 
 A short description.
+![This is an image](/images/img1.png)
 
 ## Technical setup instructions
 
