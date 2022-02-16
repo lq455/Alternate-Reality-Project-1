@@ -6,7 +6,7 @@ This is a virtual space of a graveyard built with Unity.
 ### Video Walkthrough：
 [Link](https://www.youtube.com/watch?v=BsuQA7besVQ)
 ### Screenshots
-![Screenshot](img1.png)
+![Screenshot](img1.jpg)
 ![Screenshot](img2.png)
 
 
