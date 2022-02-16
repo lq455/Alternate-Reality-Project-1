@@ -1,13 +1,8 @@
-# Your project title
+# VR Project The Graveyard
 
-A short description.test
-
-![](img2.png)
 
 ## Technical setup instructions
 
-Some special setup requirements. 
+
 
 ## Special controls 
-
-or other technical need to know things that are crucial to successfully operate/navigate the experience
